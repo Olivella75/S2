@@ -1,0 +1,110 @@
+[{
+    "_id": {
+      "$oid": "645363490049e46a20d92b03"
+    },
+    "name": "vegetal",
+    "type": "pizza",
+    "despcription": "pizza de verduras",
+    "category": "fina",
+    "image": "",
+    "price": 9.95
+  },
+  {
+    "_id": {
+      "$oid": "645363490049e46a20d92b04"
+    },
+    "name": "3 quesos",
+    "type": "pizza",
+    "despcription": "pizza de quesos",
+    "category": "rellena",
+    "image": "",
+    "price": 10.5
+  },
+  {
+    "_id": {
+      "$oid": "645363490049e46a20d92b05"
+    },
+    "name": "4 estaciones",
+    "type": "pizza",
+    "despcription": "pizza variada",
+    "category": "fina",
+    "image": "",
+    "price": 11
+  },
+  {
+    "_id": {
+      "$oid": "645363490049e46a20d92b06"
+    },
+    "name": "margarita",
+    "type": "pizza",
+    "despcription": "pizza de jamon dulce",
+    "category": "fina",
+    "image": "",
+    "price": 9.25
+  },
+  {
+    "_id": {
+      "$oid": "645363490049e46a20d92b07"
+    },
+    "name": "simple",
+    "type": "burger",
+    "despcription": "hamburguesa pequeña",
+    "category": "",
+    "image": "",
+    "price": 7
+  },
+  {
+    "_id": {
+      "$oid": "645363490049e46a20d92b08"
+    },
+    "name": "doble",
+    "type": "burger",
+    "despcription": "hamburguesa doble",
+    "category": "",
+    "image": "",
+    "price": 9
+  },
+  {
+    "_id": {
+      "$oid": "645363490049e46a20d92b09"
+    },
+    "name": "triple",
+    "type": "burger",
+    "despcription": "hamburguesa triple",
+    "category": "",
+    "image": "",
+    "price": 11
+  },
+  {
+    "_id": {
+      "$oid": "645363490049e46a20d92b0a"
+    },
+    "name": "agua",
+    "type": "drink",
+    "despcription": "agua 50cl",
+    "category": "",
+    "image": "",
+    "price": 2
+  },
+  {
+    "_id": {
+      "$oid": "645363490049e46a20d92b0b"
+    },
+    "name": "agua",
+    "type": "drink",
+    "despcription": "agua con gas 50cl",
+    "category": "",
+    "image": "",
+    "price": 3
+  },
+  {
+    "_id": {
+      "$oid": "645363490049e46a20d92b0c"
+    },
+    "name": "cerveza",
+    "type": "drink",
+    "despcription": "lata de 33cl",
+    "category": "",
+    "image": "",
+    "price": 2.5
+  }]

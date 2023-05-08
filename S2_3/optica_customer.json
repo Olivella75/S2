@@ -1,0 +1,72 @@
+[{
+    "_id": {
+      "$oid": "64522338b642ca16a98eff52"
+    },
+    "name": "Jordi Olivella",
+    "address": {
+      "calle": "Arenys",
+      "numero": 24,
+      "piso": "",
+      "puerta": 4,
+      "ciudad": "Castelldefels",
+      "CP": "08860"
+    },
+    "phone": 696766846,
+    "email": "jordiolivella@hotmail.com",
+    "date_register": "2020-01-01",
+    "recomended": ""
+  },
+  {
+    "_id": {
+      "$oid": "64522338b642ca16a98eff53"
+    },
+    "name": "Beatriz Benito",
+    "address": {
+      "calle": "Ramon y cajal",
+      "numero": 34,
+      "piso": 2,
+      "puerta": 1,
+      "ciudad": "Cornella",
+      "CP": "08940"
+    },
+    "phone": 696714684,
+    "email": "beabenito@hotmail.com",
+    "date_register": "2021-01-01",
+    "recomended": "ObjectId('64522338b642ca16a98eff52')"
+  },
+  {
+    "_id": {
+      "$oid": "64522338b642ca16a98eff54"
+    },
+    "name": "Juan Perez",
+    "address": {
+      "calle": "Plaça perez",
+      "numero": 5,
+      "piso": "",
+      "puerta": "",
+      "ciudad": "Gava",
+      "CP": "08950"
+    },
+    "phone": 666777888,
+    "email": "juanperez@hotmail.com",
+    "date_register": "2022-01-01",
+    "recomended": ""
+  },
+  {
+    "_id": {
+      "$oid": "64522338b642ca16a98eff55"
+    },
+    "name": "Juana Gomez",
+    "address": {
+      "calle": "Plaça perez",
+      "numero": 5,
+      "piso": "",
+      "puerta": "",
+      "ciudad": "Gava",
+      "CP": "08950"
+    },
+    "phone": 666888777,
+    "email": "juanagomez@hotmail.com",
+    "date_register": "2022-02-01",
+    "recomended": "ObjectId('64522338b642ca16a98eff54')"
+  }]

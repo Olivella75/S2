@@ -1,0 +1,72 @@
+[{
+    "_id": {
+      "$oid": "64535bcd0049e46a20d92af1"
+    },
+    "name": "Jordi",
+    "last_name": "Olivella",
+    "address": "Calle Ramon y cajal, 34 1-1",
+    "zipcode": "08940",
+    "city": "Cornella",
+    "region": "Barcelona",
+    "phone": 696766846
+  },
+  {
+    "_id": {
+      "$oid": "64535bcd0049e46a20d92af2"
+    },
+    "name": "Bea",
+    "last_name": "Benito",
+    "address": "Calle Sardana, 7",
+    "zipcode": "08930",
+    "city": "Sant Joan Despi",
+    "region": "Barcelona",
+    "phone": 696714684
+  },
+  {
+    "_id": {
+      "$oid": "64535bcd0049e46a20d92af3"
+    },
+    "name": "Juan",
+    "last_name": "Perez",
+    "address": "Calle Major, 74 5-4",
+    "zipcode": "08930",
+    "city": "Sant Joan Despi",
+    "region": "Barcelona",
+    "phone": 666777333
+  },
+  {
+    "_id": {
+      "$oid": "64535bcd0049e46a20d92af4"
+    },
+    "name": "Ruth",
+    "last_name": "Lopez",
+    "address": "Plaça Major, 7 1-2",
+    "zipcode": "08940",
+    "city": "Cornella",
+    "region": "Barcelona",
+    "phone": 666888444
+  },
+  {
+    "_id": {
+      "$oid": "64535bcd0049e46a20d92af5"
+    },
+    "name": "Oscar",
+    "last_name": "Zapatero",
+    "address": "Avenida Lamas Grande, 7 bajos",
+    "zipcode": "08940",
+    "city": "Cornella",
+    "region": "Barcelona",
+    "phone": 666999555
+  },
+  {
+    "_id": {
+      "$oid": "64535bcd0049e46a20d92af6"
+    },
+    "name": "Laura",
+    "last_name": "Castillejos",
+    "address": "Calle Cerca, 7 8-2",
+    "zipcode": "08930",
+    "city": "Sant Joan Despi",
+    "region": "Barcelona",
+    "phone": 666111666
+  }]

@@ -1,0 +1,64 @@
+[{
+    "_id": {
+      "$oid": "645361210049e46a20d92afd"
+    },
+    "name": "Marc",
+    "last_name": "Badal",
+    "nif": "11111111A",
+    "phone": 666555111,
+    "employment": "chef",
+    "store": {
+        "address": "Calle Rubió i Ors, 2",
+        "zipcode": "08940",
+        "city": "Cornella",
+        "region": "Barcelona"
+    }
+},
+{
+    "_id": {
+      "$oid": "645361210049e46a20d92afe"
+    },
+    "name": "Eva",
+    "last_name": "Sanz",
+    "nif": "22222222B",
+    "phone": 666555222,
+    "employment": "chef",
+    "store": [{
+        "address": "Calle Ramon Sala, 8",
+        "zipcode": "08950",
+        "city": "Gavà",
+        "region": "Barcelona"
+    }]
+}, 
+{
+    "_id": {
+      "$oid": "645361210049e46a20d92aff"
+    },
+    "name": "Dani",
+    "last_name": "Garcia",
+    "nif": "33333333C",
+    "phone": 666555333,
+    "employment": "delivery_man",
+    "store": {
+        "address": "Calle Rubió i Ors, 2",
+        "zipcode": "08940",
+        "city": "Cornella",
+        "region": "Barcelona"
+    }
+},
+{
+    "_id": {
+      "$oid": "645361210049e46a20d92b00"
+    },
+    "name": "Monica",
+    "last_name": "Casals",
+    "nif": "44444444D",
+    "phone": 666555444,
+    "employment": "delivery_man",
+    "store": {
+        "address": "Calle Ramon Sala, 8",
+        "zipcode": "08950",
+        "city": "Gavà",
+        "region": "Barcelona"
+    }
+}]

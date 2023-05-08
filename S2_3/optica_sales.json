@@ -1,0 +1,63 @@
+[{
+    "_id": {
+      "$oid": "645294ea664f72018255d3cd"
+    },
+    "glasses": "ObjectId('645221f5b642ca16a98eff4a')",
+    "employee": "ObjectId('64521edfb642ca16a98eff44')",
+    "customer": "ObjectId('64522338b642ca16a98eff52')",
+    "date": "2023-01-02"
+  },
+  {
+    "_id": {
+      "$oid": "645294ea664f72018255d3ce"
+    },
+    "glasses": "ObjectId('645221f5b642ca16a98eff49')",
+    "employee": "ObjectId('64521edfb642ca16a98eff44')",
+    "customer": "ObjectId('64522338b642ca16a98eff53')",
+    "date": "2023-01-03"
+  },
+  {
+    "_id": {
+      "$oid": "645294ea664f72018255d3cf"
+    },
+    "glasses": "ObjectId('645221f5b642ca16a98eff4b')",
+    "employee": "ObjectId('64521edfb642ca16a98eff45')",
+    "customer": "ObjectId('64522338b642ca16a98eff54')",
+    "date": "2023-01-04"
+  },
+  {
+    "_id": {
+      "$oid": "645294ea664f72018255d3d0"
+    },
+    "glasses": "ObjectId('645221f5b642ca16a98eff4d')",
+    "employee": "ObjectId('64521edfb642ca16a98eff45')",
+    "customer": "ObjectId('64522338b642ca16a98eff52')",
+    "date": "2023-01-05"
+  },
+  {
+    "_id": {
+      "$oid": "645294ea664f72018255d3d1"
+    },
+    "glasses": "ObjectId('645221f5b642ca16a98eff4f')",
+    "employee": "ObjectId('64521edfb642ca16a98eff44')",
+    "customer": "ObjectId('64522338b642ca16a98eff55')",
+    "date": "2023-01-06"
+  },
+  {
+    "_id": {
+      "$oid": "645294ea664f72018255d3d1"
+    },
+    "glasses": "ObjectId('645221f5b642ca16a98eff4f')",
+    "employee": "ObjectId('64521edfb642ca16a98eff45')",
+    "customer": "ObjectId('64522338b642ca16a98eff52')",
+    "date": "2023-01-06"
+  },
+  {
+    "_id": {
+      "$oid": "645294ea664f72018255d3d2"
+    },
+    "glasses": "ObjectId('645221f5b642ca16a98eff4c')",
+    "employee": "ObjectId('64521edfb642ca16a98eff44')",
+    "customer": "ObjectId('64522338b642ca16a98eff54')",
+    "date": "2023-01-07"
+  }]

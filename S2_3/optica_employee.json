@@ -1,0 +1,16 @@
+[{
+    "_id": {
+      "$oid": "64521edfb642ca16a98eff44"
+    },
+    "name": "Anna Garcia",
+    "phone": 666333111,
+    "email": "annag@hotmail.com"
+  },
+  {
+    "_id": {
+      "$oid": "64521edfb642ca16a98eff45"
+    },
+    "name": "Jaume Vista",
+    "phone": 666333222,
+    "email": "jaumev@hotmail.com"
+  }]

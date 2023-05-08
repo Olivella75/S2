@@ -1,0 +1,51 @@
+[{
+    "_id": {
+      "$oid": "64521cc1b642ca16a98eff34"
+    },
+    "name": "Glasses-Oakley",
+    "address": {
+        "calle": "Carrer quatre",
+        "numero": 4,
+        "piso": 4,
+        "puerta": "4",
+        "ciudad": "Barcelona",
+        "CP": "08004"
+      },
+    "phone": "93444444",
+    "fax": "93444444",
+    "CIF": "B-08456789"
+  },
+  {
+    "_id": {
+      "$oid": "64521cc1b642ca16a98eff35"
+    },
+    "name": "Glasses-Afflelou",
+    "address": {
+        "calle": "Carrer cinc",
+        "numero": 5,
+        "piso": 5,
+        "puerta": "5",
+        "ciudad": "Barcelona",
+        "CP": "08005"
+      },
+    "phone": "93555555",
+    "fax": "93555555",
+    "CIF": "B-08987654"
+  },
+  {
+    "_id": {
+      "$oid": "64521cc1b642ca16a98eff36"
+    },
+    "name": "Glasses-D&G",
+    "address": {
+        "calle": "Carrer sis",
+        "numero": 6,
+        "piso": 6,
+        "puerta": "6",
+        "ciudad": "Barcelona",
+        "CP": "08006"
+      },
+    "phone": "93444444",
+    "fax": "93666666",
+    "CIF": "B-08123456"
+  }]

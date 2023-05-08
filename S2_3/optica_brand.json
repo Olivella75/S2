@@ -1,0 +1,49 @@
+[{
+    "_id": {
+      "$oid": "64521deeb642ca16a98eff39"
+    },
+    "name": "Oakley-1",
+    "supplier": "ObjectId('64521cc1b642ca16a98eff34')"
+  },
+  {
+    "_id": {
+      "$oid": "64521deeb642ca16a98eff3a"
+    },
+    "name": "Oakley-2",
+    "supplier": "ObjectId('64521cc1b642ca16a98eff34')"
+  },
+  {
+    "_id": {
+      "$oid": "64521deeb642ca16a98eff3b"
+    },
+    "name": "Oakley-3",
+    "supplier": "ObjectId('64521cc1b642ca16a98eff34')"
+  },
+  {
+    "_id": {
+      "$oid": "64521deeb642ca16a98eff3c"
+    },
+    "name": "Afflelou-1",
+    "supplier": "ObjectId('64521cc1b642ca16a98eff35')"
+  },
+  {
+    "_id": {
+      "$oid": "64521deeb642ca16a98eff3d"
+    },
+    "name": "Afflelou-2",
+    "supplier": "ObjectId('64521cc1b642ca16a98eff35')"
+  },
+  {
+    "_id": {
+      "$oid": "64521deeb642ca16a98eff3e"
+    },
+    "name": "D&G-1",
+    "supplier": "ObjectId('64521cc1b642ca16a98eff36')"
+  },
+  {
+    "_id": {
+      "$oid": "64521deeb642ca16a98eff3f"
+    },
+    "name": "D&G-2",
+    "supplier": "ObjectId('64521cc1b642ca16a98eff36')"
+  }]

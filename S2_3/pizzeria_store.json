@@ -1,0 +1,18 @@
+[{
+    "_id": {
+      "$oid": "64535fa70049e46a20d92af9"
+    },
+    "address": "Calle Rubió i Ors, 2",
+    "zipcode": "08940",
+    "city": "Cornella",
+    "region": "Barcelona"
+  },
+  {
+    "_id": {
+      "$oid": "64535fa70049e46a20d92afa"
+    },
+    "address": "Calle Ramon Sala, 8",
+    "zipcode": "08950",
+    "city": "Gavà",
+    "region": "Barcelona"
+  }]

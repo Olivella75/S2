@@ -1,0 +1,120 @@
+[{
+    "_id": {
+      "$oid": "645364380049e46a20d92b0f"
+    },
+    "customer": {
+        "name": "Jordi",
+        "last_name": "Olivella",
+        "address": "Calle Ramon y cajal, 34 1-1",
+        "zipcode": "08940",
+        "city": "Cornella",
+        "region": "Barcelona",
+        "phone": 696766846
+    },
+    "time": "",
+    "delivery": "store",
+    "empdelivery": "",
+    "price": 37.45,
+    "store": {
+        "address": "Calle Rubió i Ors, 2",
+        "zipcode": "08940",
+        "city": "Cornella",
+        "region": "Barcelona"
+    }
+},
+{
+    "_id": {
+      "$oid": "645364380049e46a20d92b10"
+    },
+    "customer": {
+        "name": "Juan",
+        "last_name": "Perez",
+        "address": "Calle Major, 74 5-4",
+        "zipcode": "08930",
+        "city": "Sant Joan Despi",
+        "region": "Barcelona",
+        "phone": 666777333
+    },
+    "time": "203-01-01 21:00:00",
+    "delivery": "home",
+    "empdelivery": {
+        "name": "Dani",
+        "last_name": "Garcia",
+        "nif": "33333333C",
+        "phone": 666555333,
+        "employment": "delivery_man",
+        "store": {
+            "address": "Calle Rubió i Ors, 2",
+            "zipcode": "08940",
+            "city": "Cornella",
+            "region": "Barcelona"
+        }
+    },
+    "price": 26.5,
+    "store": {
+        "address": "Calle Rubió i Ors, 2",
+        "zipcode": "08940",
+        "city": "Cornella",
+        "region": "Barcelona"
+    }
+},
+{
+    "_id": {
+      "$oid": "645364380049e46a20d92b11"
+    },
+    "customer": {
+        "name": "Ruth",
+        "last_name": "Lopez",
+        "address": "Plaça Major, 7 1-2",
+        "zipcode": "08940",
+        "city": "Cornella",
+        "region": "Barcelona",
+        "phone": 666888444
+    },
+    "time": "",
+    "delivery": "store",
+    "empdelivery": "",
+    "price": 49,
+    "store": {
+        "address": "Calle Ramon Sala, 8",
+        "zipcode": "08950",
+        "city": "Gavà",
+        "region": "Barcelona"
+    }
+},
+{
+    "_id": {
+      "$oid": "645364380049e46a20d92b12"
+    },
+    "customer": {
+        "name": "Oscar",
+        "last_name": "Zapatero",
+        "address": "Avenida Lamas Grande, 7 bajos",
+        "zipcode": "08940",
+        "city": "Cornella",
+        "region": "Barcelona",
+        "phone": 666999555
+    },
+    "time": "2023-01-01 21:30:00",
+    "delivery": "home",
+    "empdelivery": {
+        "name": "Monica",
+        "last_name": "Casals",
+        "nif": "44444444D",
+        "phone": 666555444,
+        "employment": "delivery_man",
+        "store": {
+            "address": "Calle Ramon Sala, 8",
+            "zipcode": "08950",
+            "city": "Gavà",
+            "region": "Barcelona"
+        }
+    },
+    "price": 11.25,
+    "store": {
+        "address": "Calle Ramon Sala, 8",
+        "zipcode": "08950",
+        "city": "Gavà",
+        "region": "Barcelona"
+    }
+}]

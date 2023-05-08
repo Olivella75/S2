@@ -1,0 +1,91 @@
+[{
+    "_id": {
+      "$oid": "645221f5b642ca16a98eff49"
+    },
+    "brand": "ObjectId('64521deeb642ca16a98eff39')",
+    "supplier" : "ObjectId('64521cc1b642ca16a98eff34')",
+    "grad_left": 2.5,
+    "grad_right": 2.5,
+    "frame": "pasta",
+    "frame_color": "white",
+    "glass_color": "transparent",
+    "price": 49.95
+  },
+  {
+    "_id": {
+      "$oid": "645221f5b642ca16a98eff4a"
+    },
+    "brand": "ObjectId('64521deeb642ca16a98eff3c')",
+    "supplier" : "ObjectId('64521cc1b642ca16a98eff34')",
+    "grad_left": 1.25,
+    "grad_right": 1.25,
+    "frame": "metal",
+    "frame_color": "black",
+    "glass_color": "grey",
+    "price": 25
+  },
+  {
+    "_id": {
+      "$oid": "645221f5b642ca16a98eff4b"
+    },
+    "brand": "ObjectId('64521deeb642ca16a98eff3a')",
+    "supplier" : "ObjectId('64521cc1b642ca16a98eff34')",
+    "grad_left": 1.5,
+    "grad_right": 1.5,
+    "frame": "metal",
+    "frame_color": "white",
+    "glass_color": "grey",
+    "price": 60
+  },
+  {
+    "_id": {
+      "$oid": "645221f5b642ca16a98eff4c"
+    },
+    "brand": "ObjectId('64521deeb642ca16a98eff3e')",
+    "supplier" : "ObjectId('64521cc1b642ca16a98eff35')",
+    "grad_left": 0.5,
+    "grad_right": 0.5,
+    "frame": "floating",
+    "frame_color": "red",
+    "glass_color": "transparent",
+    "price": 80
+  },
+  {
+    "_id": {
+      "$oid": "645221f5b642ca16a98eff4d"
+    },
+    "brand": "ObjectId('64521deeb642ca16a98eff3f')",
+    "supplier" : "ObjectId('64521cc1b642ca16a98eff35')",
+    "grad_left": 1.25,
+    "grad_right": 1.25,
+    "frame": "pasta",
+    "frame_color": "white",
+    "glass_color": "grey",
+    "price": 100
+  },
+  {
+    "_id": {
+      "$oid": "645221f5b642ca16a98eff4e"
+    },
+    "brand": "ObjectId('64521deeb642ca16a98eff3d')",
+    "supplier" : "ObjectId('64521cc1b642ca16a98eff36')",
+    "grad_left": 1.5,
+    "grad_right": 1.5,
+    "frame": "metal",
+    "frame_color": "white",
+    "glass_color": "grey",
+    "price": 60
+  },
+  {
+    "_id": {
+      "$oid": "645221f5b642ca16a98eff4f"
+    },
+    "brand": "ObjectId('64521deeb642ca16a98eff3b')",
+    "supplier" : "ObjectId('64521cc1b642ca16a98eff36')",
+    "grad_left": 5,
+    "grad_right": 5,
+    "frame": "metal",
+    "frame_color": "black",
+    "glass_color": "grey",
+    "price": 114.99
+  }]
